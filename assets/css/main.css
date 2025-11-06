@@ -451,7 +451,7 @@ span {
 }
 .gt-about-wrapper-2 .gt-about-image img {
   width: 100%;
-  height: 100%;
+  height: auto;
 }
 .gt-about-wrapper-2 .gt-about-image:hover::after {
   height: 250%;
