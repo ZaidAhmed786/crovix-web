@@ -3155,6 +3155,7 @@ span {
 
 .gt-footer-section-1 {
   position: relative;
+  text-transform: none;
 }
 .gt-footer-section-1::before {
   position: absolute;
